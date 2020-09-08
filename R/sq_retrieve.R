@@ -1,3 +1,11 @@
+#' @param taxa
+#' @param genes
+#' @param maxseqs
+#' @param
+
+
+
+
 Hughes_etal_species <-
   read.csv("~/MEGAsync/Projects/14_HymenopteranTree/Hughes_etal_species.csv")
 
